@@ -1,0 +1,93 @@
+# WordPress Website Development Portfolio
+
+A collection of WordPress and WooCommerce projects developed during my internship. I independently handled website development from design implementation and feature customization to testing and deployment.
+
+## 1. Jler Laser — E-commerce Website Development
+
+**Website:** https://jlerlaser.com/
+
+**Project Overview**
+
+Developed and customized a WooCommerce website for an industrial laser equipment business, focusing on product presentation, dynamic data integration, and customized e-commerce functionality.
+
+**Key Contributions**
+- Customized website layouts and product pages using Elementor, HTML, CSS, JavaScript, and PHP.
+- Developed custom WooCommerce plugins to extend product information display functionality.
+- Connected backend product data with frontend components, enabling dynamic rendering of product details, images, attributes, and other product information.
+- Customized reusable product modules to improve content management and maintainability.
+- Assisted with website testing, debugging, and deployment.
+
+**Technologies:** WordPress, WooCommerce, Elementor, PHP, HTML, CSS, JavaScript.
+
+---
+
+## 2. Pretty Eventful — E-commerce Website Customization
+
+**Website:** https://prettyeventful.co.uk/
+
+**Project Overview**
+
+Customized a WordPress e-commerce website with a focus on storefront presentation, product browsing, theme customization, and shopping functionality.
+
+**Key Contributions**
+- Customized theme layouts and website styles to meet project requirements.
+- Developed and refined frontend components using HTML, CSS, JavaScript, and WordPress customization techniques.
+- Worked with WooCommerce product pages and e-commerce functionality.
+- Configured and tested relevant payment and multi-currency features where required.
+- Assisted with troubleshooting, responsive layout adjustments, and production deployment.
+
+**Technologies:** WordPress, WooCommerce, Elementor, HTML, CSS, JavaScript, PHP.
+
+---
+
+## 3. Vertex Pepti — Design Implementation & Product Display
+
+**Website:** https://vertexpepti.com/
+
+**Project Overview**
+
+Implemented website pages based on Figma design references, focusing on visual consistency, responsive layouts, and dynamic product presentation.
+
+**Key Contributions**
+- Translated design specifications into responsive WordPress pages.
+- Customized page layouts and styling using Elementor, HTML, and CSS.
+- Implemented interactive frontend components with JavaScript where required.
+- Customized WooCommerce product presentation and dynamic product information display.
+- Tested page layouts across desktop and mobile screen sizes.
+
+**Technologies:** WordPress, WooCommerce, Elementor, Figma, HTML, CSS, JavaScript, PHP.
+
+---
+
+## 4. Narwal Global — Theme Customization & Feature Development
+
+**Website:** https://narwalglobal.ru/
+
+**Project Overview**
+
+Customized a WordPress website using an existing theme, implementing tailored page layouts, interactive elements, and website functionality.
+
+**Key Contributions**
+- Customized theme templates and page layouts to meet project requirements.
+- Developed interactive frontend elements using HTML, CSS, and JavaScript.
+- Modified website components and styles to improve presentation and responsiveness.
+- Assisted with payment integration configuration, callback troubleshooting, and functional testing.
+- Handled website debugging and deployment-related tasks.
+
+**Technologies:** WordPress, WooCommerce where applicable, PHP, HTML, CSS, JavaScript, Elementor.
+
+---
+
+## Skills & Technical Expertise
+
+- **CMS & E-commerce:** WordPress, WooCommerce, Elementor
+- **Frontend Development:** HTML5, CSS3, JavaScript, Responsive Web Design
+- **Backend Development:** PHP, WordPress Hooks, Custom Plugin Development
+- **Design Implementation:** Figma-to-WordPress, Theme Customization
+- **Integration & Deployment:** Product Data Integration, Payment Configuration, Debugging, Website Deployment
+
+## About This Portfolio
+
+These projects demonstrate my experience in independently developing and customizing WordPress websites, extending WooCommerce functionality, integrating frontend and backend features, and supporting the full website delivery process from implementation to launch.
+
+Project descriptions reflect my individual contributions. Source code and technical materials are shared only where authorized.
